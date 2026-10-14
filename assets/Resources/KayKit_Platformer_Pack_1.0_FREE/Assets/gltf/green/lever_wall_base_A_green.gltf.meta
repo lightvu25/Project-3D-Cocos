@@ -1,0 +1,142 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "e448aa41-7531-453f-af90-18c5112cddd4",
+  "files": [],
+  "subMetas": {
+    "802c1": {
+      "importer": "gltf-mesh",
+      "uuid": "e448aa41-7531-453f-af90-18c5112cddd4@802c1",
+      "displayName": "",
+      "id": "802c1",
+      "name": "lever_wall_A_green.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 340
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4d164": {
+      "importer": "gltf-mesh",
+      "uuid": "e448aa41-7531-453f-af90-18c5112cddd4@4d164",
+      "displayName": "",
+      "id": "4d164",
+      "name": "lever_wall_base_A_green.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 100
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "e448aa41-7531-453f-af90-18c5112cddd4@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Resources/KayKit_Platformer_Pack_1.0_FREE/Assets/gltf/green/platformer_texture.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "209cd": {
+      "importer": "gltf-material",
+      "uuid": "e448aa41-7531-453f-af90-18c5112cddd4@209cd",
+      "displayName": "",
+      "id": "209cd",
+      "name": "platformer.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9bdc": {
+      "importer": "gltf-scene",
+      "uuid": "e448aa41-7531-453f-af90-18c5112cddd4@f9bdc",
+      "displayName": "",
+      "id": "f9bdc",
+      "name": "lever_wall_base_A_green.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "platformer_texture",
+        "uri": "db://assets/Resources/KayKit_Platformer_Pack_1.0_FREE/Assets/gltf/green/platformer_texture.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "e448aa41-7531-453f-af90-18c5112cddd4@802c1",
+        "e448aa41-7531-453f-af90-18c5112cddd4@4d164"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e448aa41-7531-453f-af90-18c5112cddd4@e39f7"
+      ],
+      "materials": [
+        "e448aa41-7531-453f-af90-18c5112cddd4@209cd"
+      ],
+      "scenes": [
+        "e448aa41-7531-453f-af90-18c5112cddd4@f9bdc"
+      ]
+    }
+  }
+}

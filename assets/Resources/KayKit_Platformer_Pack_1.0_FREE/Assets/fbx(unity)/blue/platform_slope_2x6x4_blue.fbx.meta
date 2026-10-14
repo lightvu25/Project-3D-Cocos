@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "764d840b-584b-411b-b962-fe16727e3905",
+  "files": [],
+  "subMetas": {
+    "46bf9": {
+      "importer": "gltf-mesh",
+      "uuid": "764d840b-584b-411b-b962-fe16727e3905@46bf9",
+      "displayName": "",
+      "id": "46bf9",
+      "name": "platform_slope_2x6x4_blue.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 84
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "764d840b-584b-411b-b962-fe16727e3905@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Resources/KayKit_Platformer_Pack_1.0_FREE/Assets/fbx(unity)/blue/platformer_texture.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "209cd": {
+      "importer": "gltf-material",
+      "uuid": "764d840b-584b-411b-b962-fe16727e3905@209cd",
+      "displayName": "",
+      "id": "209cd",
+      "name": "platformer.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2e911": {
+      "importer": "gltf-scene",
+      "uuid": "764d840b-584b-411b-b962-fe16727e3905@2e911",
+      "displayName": "",
+      "id": "2e911",
+      "name": "platform_slope_2x6x4_blue.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Resources/KayKit_Platformer_Pack_1.0_FREE/Assets/fbx(unity)/blue/platformer_texture.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "764d840b-584b-411b-b962-fe16727e3905@46bf9"
+      ],
+      "skeletons": [],
+      "textures": [
+        "764d840b-584b-411b-b962-fe16727e3905@7d6ab"
+      ],
+      "materials": [
+        "764d840b-584b-411b-b962-fe16727e3905@209cd"
+      ],
+      "scenes": [
+        "764d840b-584b-411b-b962-fe16727e3905@2e911"
+      ]
+    }
+  }
+}

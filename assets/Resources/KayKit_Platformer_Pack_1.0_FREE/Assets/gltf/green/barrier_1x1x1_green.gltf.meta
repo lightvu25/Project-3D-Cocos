@@ -1,0 +1,123 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "ecac77ec-f4cf-4a05-ae05-5825cbd48099",
+  "files": [],
+  "subMetas": {
+    "f0b17": {
+      "importer": "gltf-mesh",
+      "uuid": "ecac77ec-f4cf-4a05-ae05-5825cbd48099@f0b17",
+      "displayName": "",
+      "id": "f0b17",
+      "name": "barrier_1x1x1_green.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 212
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "ecac77ec-f4cf-4a05-ae05-5825cbd48099@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Resources/KayKit_Platformer_Pack_1.0_FREE/Assets/gltf/green/platformer_texture.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "209cd": {
+      "importer": "gltf-material",
+      "uuid": "ecac77ec-f4cf-4a05-ae05-5825cbd48099@209cd",
+      "displayName": "",
+      "id": "209cd",
+      "name": "platformer.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0c8a3": {
+      "importer": "gltf-scene",
+      "uuid": "ecac77ec-f4cf-4a05-ae05-5825cbd48099@0c8a3",
+      "displayName": "",
+      "id": "0c8a3",
+      "name": "barrier_1x1x1_green.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "platformer_texture",
+        "uri": "db://assets/Resources/KayKit_Platformer_Pack_1.0_FREE/Assets/gltf/green/platformer_texture.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "ecac77ec-f4cf-4a05-ae05-5825cbd48099@f0b17"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ecac77ec-f4cf-4a05-ae05-5825cbd48099@e39f7"
+      ],
+      "materials": [
+        "ecac77ec-f4cf-4a05-ae05-5825cbd48099@209cd"
+      ],
+      "scenes": [
+        "ecac77ec-f4cf-4a05-ae05-5825cbd48099@0c8a3"
+      ]
+    }
+  }
+}

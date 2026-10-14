@@ -1,0 +1,126 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c7c03aea-b7c4-4530-8783-8bb101302356",
+  "files": [],
+  "subMetas": {
+    "00870": {
+      "importer": "gltf-mesh",
+      "uuid": "c7c03aea-b7c4-4530-8783-8bb101302356@00870",
+      "displayName": "",
+      "id": "00870",
+      "name": "Cube.034.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1668
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "c7c03aea-b7c4-4530-8783-8bb101302356@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Resources/KayKit_Prototype_Bits_1.1_FREE/Assets/fbx(unity)/prototypebits_texture.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ed0f": {
+      "importer": "gltf-material",
+      "uuid": "c7c03aea-b7c4-4530-8783-8bb101302356@0ed0f",
+      "displayName": "",
+      "id": "0ed0f",
+      "name": "prototype_texture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26dff": {
+      "importer": "gltf-scene",
+      "uuid": "c7c03aea-b7c4-4530-8783-8bb101302356@26dff",
+      "displayName": "",
+      "id": "26dff",
+      "name": "Pallet_Small_Decorated_A.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Resources/KayKit_Prototype_Bits_1.1_FREE/Assets/fbx(unity)/prototypebits_texture.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "c7c03aea-b7c4-4530-8783-8bb101302356@00870"
+      ],
+      "skeletons": [],
+      "textures": [
+        "c7c03aea-b7c4-4530-8783-8bb101302356@7d6ab"
+      ],
+      "materials": [
+        "c7c03aea-b7c4-4530-8783-8bb101302356@0ed0f"
+      ],
+      "scenes": [
+        "c7c03aea-b7c4-4530-8783-8bb101302356@26dff"
+      ]
+    }
+  }
+}

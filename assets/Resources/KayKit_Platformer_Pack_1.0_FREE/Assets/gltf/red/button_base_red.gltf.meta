@@ -1,0 +1,142 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "ac855ab6-76d7-4803-9f04-5d3b49b12770",
+  "files": [],
+  "subMetas": {
+    "db2ed": {
+      "importer": "gltf-mesh",
+      "uuid": "ac855ab6-76d7-4803-9f04-5d3b49b12770@db2ed",
+      "displayName": "",
+      "id": "db2ed",
+      "name": "button_red.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 84
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d373e": {
+      "importer": "gltf-mesh",
+      "uuid": "ac855ab6-76d7-4803-9f04-5d3b49b12770@d373e",
+      "displayName": "",
+      "id": "d373e",
+      "name": "button_base_red.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 108
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "ac855ab6-76d7-4803-9f04-5d3b49b12770@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Resources/KayKit_Platformer_Pack_1.0_FREE/Assets/gltf/red/platformer_texture.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "209cd": {
+      "importer": "gltf-material",
+      "uuid": "ac855ab6-76d7-4803-9f04-5d3b49b12770@209cd",
+      "displayName": "",
+      "id": "209cd",
+      "name": "platformer.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7d4e": {
+      "importer": "gltf-scene",
+      "uuid": "ac855ab6-76d7-4803-9f04-5d3b49b12770@a7d4e",
+      "displayName": "",
+      "id": "a7d4e",
+      "name": "button_base_red.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "platformer_texture",
+        "uri": "db://assets/Resources/KayKit_Platformer_Pack_1.0_FREE/Assets/gltf/red/platformer_texture.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "ac855ab6-76d7-4803-9f04-5d3b49b12770@db2ed",
+        "ac855ab6-76d7-4803-9f04-5d3b49b12770@d373e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "ac855ab6-76d7-4803-9f04-5d3b49b12770@e39f7"
+      ],
+      "materials": [
+        "ac855ab6-76d7-4803-9f04-5d3b49b12770@209cd"
+      ],
+      "scenes": [
+        "ac855ab6-76d7-4803-9f04-5d3b49b12770@a7d4e"
+      ]
+    }
+  }
+}

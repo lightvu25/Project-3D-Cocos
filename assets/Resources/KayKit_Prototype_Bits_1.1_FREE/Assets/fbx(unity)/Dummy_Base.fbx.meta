@@ -1,0 +1,221 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "eff5f4c5-5450-4ad4-b822-7a90670aead5",
+  "files": [],
+  "subMetas": {
+    "63138": {
+      "importer": "gltf-mesh",
+      "uuid": "eff5f4c5-5450-4ad4-b822-7a90670aead5@63138",
+      "displayName": "",
+      "id": "63138",
+      "name": "PrototypePete_body.010.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 608
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a1d7": {
+      "importer": "gltf-mesh",
+      "uuid": "eff5f4c5-5450-4ad4-b822-7a90670aead5@7a1d7",
+      "displayName": "",
+      "id": "7a1d7",
+      "name": "Cube.16121.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 200
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4b7c3": {
+      "importer": "gltf-mesh",
+      "uuid": "eff5f4c5-5450-4ad4-b822-7a90670aead5@4b7c3",
+      "displayName": "",
+      "id": "4b7c3",
+      "name": "Cube.16119.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 468
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d552": {
+      "importer": "gltf-mesh",
+      "uuid": "eff5f4c5-5450-4ad4-b822-7a90670aead5@7d552",
+      "displayName": "",
+      "id": "7d552",
+      "name": "Cube.16120.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 468
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "884f5": {
+      "importer": "gltf-mesh",
+      "uuid": "eff5f4c5-5450-4ad4-b822-7a90670aead5@884f5",
+      "displayName": "",
+      "id": "884f5",
+      "name": "Cylinder.315.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 120
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d5754": {
+      "importer": "gltf-mesh",
+      "uuid": "eff5f4c5-5450-4ad4-b822-7a90670aead5@d5754",
+      "displayName": "",
+      "id": "d5754",
+      "name": "PrototypePete_head.003.mesh",
+      "userData": {
+        "gltfIndex": 5,
+        "triangleCount": 590
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "eff5f4c5-5450-4ad4-b822-7a90670aead5@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Resources/KayKit_Prototype_Bits_1.1_FREE/Assets/fbx(unity)/prototypebits_texture.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ed0f": {
+      "importer": "gltf-material",
+      "uuid": "eff5f4c5-5450-4ad4-b822-7a90670aead5@0ed0f",
+      "displayName": "",
+      "id": "0ed0f",
+      "name": "prototype_texture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "03f5f": {
+      "importer": "gltf-scene",
+      "uuid": "eff5f4c5-5450-4ad4-b822-7a90670aead5@03f5f",
+      "displayName": "",
+      "id": "03f5f",
+      "name": "Dummy_Base.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "db://assets/Resources/KayKit_Prototype_Bits_1.1_FREE/Assets/fbx(unity)/prototypebits_texture.png"
+      }
+    ],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "eff5f4c5-5450-4ad4-b822-7a90670aead5@7a1d7",
+        "eff5f4c5-5450-4ad4-b822-7a90670aead5@63138",
+        "eff5f4c5-5450-4ad4-b822-7a90670aead5@4b7c3",
+        "eff5f4c5-5450-4ad4-b822-7a90670aead5@7d552",
+        "eff5f4c5-5450-4ad4-b822-7a90670aead5@884f5",
+        "eff5f4c5-5450-4ad4-b822-7a90670aead5@d5754"
+      ],
+      "skeletons": [],
+      "textures": [
+        "eff5f4c5-5450-4ad4-b822-7a90670aead5@7d6ab"
+      ],
+      "materials": [
+        "eff5f4c5-5450-4ad4-b822-7a90670aead5@0ed0f"
+      ],
+      "scenes": [
+        "eff5f4c5-5450-4ad4-b822-7a90670aead5@03f5f"
+      ]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "f971ab5f-0f0c-4503-82a2-3b5d13c395af",
+  "files": [],
+  "subMetas": {
+    "e19a7": {
+      "importer": "gltf-mesh",
+      "uuid": "f971ab5f-0f0c-4503-82a2-3b5d13c395af@e19a7",
+      "displayName": "",
+      "id": "e19a7",
+      "name": "Cube.16417.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 8
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "f971ab5f-0f0c-4503-82a2-3b5d13c395af@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Resources/KayKit_Prototype_Bits_1.1_FREE/Assets/gltf/prototypebits_texture.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ed0f": {
+      "importer": "gltf-material",
+      "uuid": "f971ab5f-0f0c-4503-82a2-3b5d13c395af@0ed0f",
+      "displayName": "",
+      "id": "0ed0f",
+      "name": "prototype_texture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "60b51": {
+      "importer": "gltf-scene",
+      "uuid": "f971ab5f-0f0c-4503-82a2-3b5d13c395af@60b51",
+      "displayName": "",
+      "id": "60b51",
+      "name": "Primitive_Wall_Slope.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "prototypebits_texture",
+        "uri": "db://assets/Resources/KayKit_Prototype_Bits_1.1_FREE/Assets/gltf/prototypebits_texture.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "f971ab5f-0f0c-4503-82a2-3b5d13c395af@e19a7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f971ab5f-0f0c-4503-82a2-3b5d13c395af@e39f7"
+      ],
+      "materials": [
+        "f971ab5f-0f0c-4503-82a2-3b5d13c395af@0ed0f"
+      ],
+      "scenes": [
+        "f971ab5f-0f0c-4503-82a2-3b5d13c395af@60b51"
+      ]
+    }
+  }
+}
